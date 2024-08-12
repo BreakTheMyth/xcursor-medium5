@@ -5,7 +5,7 @@
 # 安装
 
 ```sh
-sudo git clone https://github.com/BreakTheMyth/xcursor-medium5.git /usr/share/icons/xcursor-medium5/ && sudo cp /usr/share/icons/default/index.theme /usr/share/icons/default/index.theme.bak && sudo sed -i 's/^Inherits=.*/Inherits=xcursor-medium5/' /usr/share/default/index.theme && echo "finish"
+sudo git clone https://github.com/BreakTheMyth/xcursor-medium5.git /usr/share/icons/xcursor-medium5/ && sudo cp /usr/share/icons/default/index.theme /usr/share/icons/default/index.theme.bak && sudo sed -i 's/^Inherits=.*/Inherits=xcursor-medium5/' /usr/share/icons/default/index.theme && echo "finish"
 ```
 
 # 卸载
