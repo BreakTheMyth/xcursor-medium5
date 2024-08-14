@@ -2,6 +2,10 @@
 
 此光标移植自[【五维介质自制鼠标指针】](https://www.bilibili.com/video/BV1q3411Z72c/?share_source=copy_web&vd_source=07889427324b59af06fa17a79c7a5378)，已经作者许可。
 
+# 效果
+
+![preview](./preview.gif)
+
 # 安装
 
 ```sh
@@ -14,3 +18,7 @@ sudo git clone https://github.com/BreakTheMyth/xcursor-medium5.git /usr/share/ic
 sudo rm -rf /usr/share/icons/xcursor-medium5/ && sudo mv /usr/share/icons/default/index.theme.bak /usr/share/icons/default/index.theme && echo "finish"
 ```
 
+# 补充
+
+- 安装完成后建议重启
+- 尊贵 Arch Linux 用户可移步至 [AUR](https://aur.archlinux.org/packages/xcursor-medium5)
