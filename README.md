@@ -2,10 +2,6 @@
 
 此光标移植自[【五维介质自制鼠标指针】](https://www.bilibili.com/video/BV1q3411Z72c/?share_source=copy_web&vd_source=07889427324b59af06fa17a79c7a5378)，已经作者许可。
 
-# 效果
-
-![preview](./preview.gif)
-
 # 安装
 
 ```sh
